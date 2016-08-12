@@ -1,0 +1,3 @@
+Pebble.addEventListener("ready",
+	// Ready
+);
