@@ -1,3 +1,3 @@
-Pebble.addEventListener("ready",
-	// Ready
-);
+Pebble.addEventListener("ready", function() {
+  // Ready
+});
