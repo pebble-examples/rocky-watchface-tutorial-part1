@@ -59,9 +59,6 @@ rocky.on('draw', function(event) {
 });
 
 rocky.on('minutechange', function(event) {
-  // Display a message in the system logs
-  console.log("Another minute with your Pebble!");
-
   // Request the screen to be redrawn on next pass
   rocky.requestDraw();
 });
